@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.profile-card {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(red, green, blue, alpha);
+    width: 250px
+
+}
+#user-image {
+    width: 250px;
+    border-radius:10px;
+    background-color: blue;
+    margin-bottom: 15px;
+    text-align: center;
+}
+#user-age{
+    font-size: 18px;
+    color: brown;
+    margin-bottom: 15px;
+
+}
+#user-bio{
+    font-size: 16px;
+    color: blueviolet;
+    margin-bottom: 20px;
+}
